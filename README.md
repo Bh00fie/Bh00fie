@@ -8,8 +8,8 @@ I started coding with JavaScript (Full Stack) in 2022, towards the end of my uni
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=Bh00fie&show_icons=true&count_private=true&theme=graywhite&hide_border=true&hide=issues,contribs&bg_color=FFFFFF">
   <br>
   <img height="5%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Bh00fie&layout=compact&hide_border=true&theme=graywhite&bg_color=FFFFFF&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
-  <br>
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Bh00fie&theme=graywhite)](https://git.io/streak-stats)
+  <be>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Bh00fie&theme=graywhite&hide_border=true&background=FFFFFF" />
 </p>
 <!--
 **Bh00fie/Bh00fie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
