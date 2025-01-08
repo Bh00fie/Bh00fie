@@ -9,7 +9,7 @@ I started coding with JavaScript (Full Stack), throughout my university career I
   <br>
   <img height="5%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Bh00fie&layout=compact&hide_border=true&theme=graywhite&bg_color=FFFFFF&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
   <br>
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=Bh00fie&theme=graywhite&hide_border=true&background=FFFFFF">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=Bh00fie&theme=graywhite&hide_border=true&background=FFFFFF00">
 </p>
 <!--
 **Bh00fie/Bh00fie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
