@@ -1,7 +1,8 @@
 ## Hi there 👋
 
-Abhi here, I'm a recent engineering graduate working on my Software skills.
-I started coding with JavaScript (Full Stack) in 2022, towards the end of my university career I shifted to Python, C++, and Matlab because of academic projects. I recently joined a Data Analytics/Science bootcamp to strengthen my Python/SQL/Yaml skills while preparing for technical interviews. 
+Abhi here, I'm a proactive Software Engineer currently working as a Data Engineer in the Fintech space at Accenture. With a strong foundation in Aerospace and Mechanical Engineering, I bring an analytical and unique perspective to problem-solving, approaching challenges with precision and creativity.
+
+I’m passionate about continuous growth, and I actively seek opportunities to strengthen my impact as an engineer. My technical skillset spans from Data Engineering, Cloud technologies, to Frontend development, making me versatile and adaptable to dynamic environments. 🧩
 
 ## Stats 📚:
 <p align="center">
